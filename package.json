@@ -1,0 +1,6 @@
+{
+  "name": "auto-sender",
+  "version": "1.0.0",
+  "description": "Auto sender plugin",
+  "main": "index.tsx"
+}
